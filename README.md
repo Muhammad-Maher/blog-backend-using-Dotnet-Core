@@ -2,4 +2,4 @@
 blog backend using Dotnet Core
 
 Deployment Link:
-    http://muhammadmaher-001-site1.itempurl.com/index.html
+    http://muhammadmaher-001-site1.itempurl.com
