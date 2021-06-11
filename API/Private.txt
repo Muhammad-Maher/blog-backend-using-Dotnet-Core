@@ -1,2 +1,0 @@
-﻿
-Data Source=SQL5052.site4now.net;Initial Catalog=DB_A75D40_blogPost;User Id=DB_A75D40_blogPost_admin;Password=postblogdbPd22!;
